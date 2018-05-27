@@ -1,0 +1,88 @@
+.container {
+    width: 1300px;
+    height: 1100px;
+    background: #97d6ef;
+}
+
+.logo {
+    width: 20%;
+    height: 100px;
+    background: black;
+    float: left;
+}
+
+.menu {
+    width: 80%;
+    height: 100px;
+    background: red;
+    float: left;
+}
+.left {
+    width: 20%;
+    height: 750px;
+    background: #05443b;
+    float: left;
+}
+.right {
+    background: #23c34d;
+    width: 80%;
+    height: 750px;
+    float: left;
+}
+.r1 {
+    width: 100%;
+    height: 187px;
+    background: #b72be4;
+    float: left;
+}
+.r2 {
+    width: 100%;
+    height: 187px;
+    background: #86770e;
+    float: left;
+}
+
+.r3 {
+    width: 100%;
+    height: 375px;
+    background: #b16b6b;
+    float: left;
+}
+.t1 {
+    width: 50%;
+    height: 375px;
+    background: wheat;
+    float: left;
+}
+.t2 {
+    width: 50%;
+    height: 375px;
+    background: #0df976;
+    float: left;
+}
+
+.footer {
+    width: 100%;
+    height: 150px;
+    background: black;
+    float: left;
+}
+.f1 {
+    width: 50%;
+    height: 100%;
+    background: #4f4473;
+    float: left;
+}
+.f2 {
+    width: 50%;
+    height: 100%;
+    background: #d44132;
+    float: left;
+}
+
+.end {
+    background: #e62ed0;
+    width: 1300px;
+    height: 100px;
+    float: left;
+}
